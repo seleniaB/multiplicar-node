@@ -1,0 +1,5 @@
+//Este archivo le dice a git que ignore lo que esra en el
+
+node_modules/
+
+tablas/*.txt
